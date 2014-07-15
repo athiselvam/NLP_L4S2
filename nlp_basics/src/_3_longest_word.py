@@ -1,7 +1,7 @@
 '''
-Created on 15 Jul 2014
+Created on 9 Jul 2014
 
-@author: nimal
+@author: dulshani
 '''
 
 def find_longest_word(word_list):
