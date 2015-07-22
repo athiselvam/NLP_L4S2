@@ -1,4 +1,4 @@
 NLP_L4S2
 ========
 
-NLP programs
+Simple NLP programs including Viterbi implementation in Python.
